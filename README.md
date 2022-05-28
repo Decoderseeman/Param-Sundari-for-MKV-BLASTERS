@@ -60,19 +60,19 @@ You can deploy this bot anywhere.
 <summary>Deploy To Heroku</summary>
 <br>
 <p>
-<a href="https://heroku.com/deploy?template=https://github.com/Aadhi000/Ajax-Extra-Features">
+<a href="https://heroku.com/deploy?template=https://github.com/Decoderseeman/Param-Sundari-for-MKV-BLASTERS">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
 
-<a href="https://youtu.be/kB9TkCsuuy">
+<a href="https://youtube.com/channel/UCdk53DCXKoKOKgKeohUEnmA">
   <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
 </a><br>
 
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/Aadhi000/Ajax-Extra-Features
+git clone https://github.com/Decoderseeman/Param-Sundari-for-MKV-BLASTERS
 # Install Packages
 pip3 install -r requirements.txt
 Edit info.py with variables as given below then run bot
