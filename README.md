@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">
   <b>PARAM SUNDARI for MKV BLASTERS</b>
-</h1>[<b>𝙋𝘼𝙍𝘼𝙈 𝙎𝙐𝙉𝘿𝘼𝙍𝙄</b>](https://user-images.githubusercontent.com/99487702/170823058-1190a4b4-b0e3-4bb3-90c2-48564ce717fa.jpg)
+</h1>[<b>𝙋𝘼𝙍𝘼𝙈 𝙎𝙐𝙉𝘿𝘼𝙍𝙄</b>
 
 
 <a href="https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA">
