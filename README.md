@@ -108,7 +108,7 @@ python3 bot.py
 * /ban  - to ban a user.
 * /unban  - to unban a user.
 * /channel - to get list of total connected channels
-* /broadcast - to broadcast a message to all <b>ℙ𝔸ℝ𝔸𝕄 𝕊𝕌ℕ𝔻𝔸ℝ𝕀</b> users
+* /broadcast - to broadcast a message to all 𝐏𝐀𝐑𝐀𝐌 𝐒𝐔𝐍𝐃𝐀𝐑𝐈 users
 ```
 
 <b>✮ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [<b>𝘿𝙀𝘾𝙊𝘿𝙀𝙍</b>](https://t.me/mastertheblasterr)</b>                                                                                                                                                                                     
