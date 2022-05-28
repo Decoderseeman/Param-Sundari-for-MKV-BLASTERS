@@ -9,11 +9,11 @@
   <img src="https://img.shields.io/badge/𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴-black?logo=youtube" width="150">
 
 
-[![Stars](https://img.shields.io/github/stars/Aadhi000/Ajax-Extra-Features?style=flat-square&color=green)](https://github.com/Aadhi000/Ajax-Extra-Features/stargazers)
-[![Forks](https://img.shields.io/github/forks/Aadhi000/Ajax-Extra-Features?style=flat-square&color=blue)](https://github.com/Aadhi000/Ajax-Extra-Features/fork)
-[![Size](https://img.shields.io/github/repo-size/Aadhi000/Ajax-Extra-Features?style=flat-square&color=red)](https://github.com/Aadhi000/Ajax-Extra-Features)   
-[![Open Source happy ](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Aadhi000/Ajax-Extra-Features)   
-[![Contributors](https://img.shields.io/github/contributors/Aadhi000/Ajax-Extra-Features?style=flat-square&color=green)](https://github.com/Aadhi000/Ajax-Extra-Features/graphs/contributors)
+[![Stars](https://img.shields.io/github/stars/Decoderseeman/Param-Sundari-for-MKV-BLASTERS?style=flat-square&color=green)](https://github.com/Decoderseeman/Param-Sundari-for-MKV-BLASTERS/stargazers)
+[![Forks](https://img.shields.io/github/forks/Decoderseeman/Param-Sundari-for-MKV-BLASTERS?style=flat-square&color=blue)](https://github.com/Decoderseeman/Param-Sundari-for-MKV-BLASTERS/fork)
+[![Size](https://img.shields.io/github/repo-size/Decoderseeman/Param-Sundari-for-MKV-BLASTERS?style=flat-square&color=red)](https://github.com/Decoderseeman/Param-Sundari-for-MKV-BLASTERS)   
+[![Open Source happy ](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Decoderseeman/Param-Sundari-for-MKV-BLASTERS)   
+[![Contributors](https://img.shields.io/github/contributors/Decoderseeman/Param-Sundari-for-MKV-BLASTERS?style=flat-square&color=green)](https://github.com/Decoderseeman/Param-Sundari-for-MKV-BLASTERS/graphs/contributors)
 ## Features
 
 - [x] Auto Filter
