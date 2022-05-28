@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/https://user-images.githubusercontent.com/99487702/170823058-1190a4b4-b0e3-4bb3-90c2-48564ce717fa.jpg" alt="PARAM SUNDARI for BLASTERS">
+  <img src="https://user-images.githubusercontent.com/99487702/170823058-1190a4b4-b0e3-4bb3-90c2-48564ce717fa.jpg" alt="PARAM SUNDARI for BLASTERS">
 </p>
 <h1 align="center">
   <b>PARAM SUNDARI for MKV BLASTERS</b>
