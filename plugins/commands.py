@@ -44,7 +44,7 @@ async def start(client, message):
             InlineKeyboardButton('🎯 𝗠𝗮𝗶𝗻 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 🎯', url='https://t.me/Mkv_blasters'),
             InlineKeyboardButton('🎟️ 𝗦𝗲𝗿𝗶𝗲𝘀 🎟️', url='https://t.me/mkv_serieshub')
             ],[
-            InlineKeyboardButton('🎥 𝗠𝗼𝘃𝗶𝗲𝘀 🎥',url='https:mkv_movieshub),
+            InlineKeyboardButton('🎥 𝗠𝗼𝘃𝗶𝗲𝘀 🎥',url='https:mkv_movieshub'),
             InlineKeyboardButton('ℹ️ 𝗛𝗲𝗹𝗽 ℹ️', callback_data='help')
             ],[                     
             InlineKeyboardButton('🍻 𝗔𝗯𝗼𝘂𝘁 🍻', callback_data='about')
