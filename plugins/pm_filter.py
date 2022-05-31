@@ -747,13 +747,16 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('➕ 𝗔𝗱𝗱 𝗠𝗲 𝗧𝗼 𝗬𝗼𝘂𝗿 𝗚𝗿𝗼𝘂𝗽 ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('🎯 𝗠𝗼𝘃𝗶𝗲𝘀 🎯', url='https://t.me/mkv_rockers'),
-            InlineKeyboardButton('🎟️ 𝗦𝗲𝗿𝗶𝗲𝘀 🎟️', url='https://t.me/mkvserieshub')
+            InlineKeyboardButton('🎯 𝗠𝗮𝗶𝗻 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 🎯', url='https://t.me/Mkv_blasters'),
+            InlineKeyboardButton('🎟️ 𝗦𝗲𝗿𝗶𝗲𝘀 🎟️', url='https://t.me/mkv_serieshub')
             ],[      
+            InlineKeyboardButton('🎥 𝗠𝗼𝘃𝗶𝗲𝘀 🎥',url='https://t.me/mkv_movieshub'),
+            InlineKeyboardButton('📀 𝗣𝗥𝗘 𝗗𝗩𝗗 📀',url='https://t.me/mkv_predvdhub')
+            ],[
             InlineKeyboardButton('ℹ️ 𝗛𝗲𝗹𝗽 ℹ️', callback_data='help'),
             InlineKeyboardButton('🍻 𝗔𝗯𝗼𝘂𝘁 🍻', callback_data='about')
             ],[
-            InlineKeyboardButton('🍿 𝗠𝗼𝘃𝗶𝗲 𝗖𝗹𝘂𝗯 🍿', url='https://t.me/mkvrequestroom')
+            InlineKeyboardButton('🍿 𝗠𝗼𝘃𝗶𝗲 𝗖𝗹𝘂𝗯 🍿', url='https://t.me/mkv_requestroom')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -793,7 +796,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "help":
         buttons = [[
-            InlineKeyboardButton('𝙼𝙰𝙽𝚄𝙴𝙻 𝙵𝙸𝙻𝚃𝙴𝚁', callback_data='manuelfilter'),
+            InlineKeyboardButton('𝙼𝙰𝙽𝚄𝙰𝙻 𝙵𝙸𝙻𝚃𝙴𝚁', callback_data='manuelfilter'),
             InlineKeyboardButton('𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁', callback_data='autofilter'),
             InlineKeyboardButton('𝙲𝙾𝙽𝙽𝙴𝙲𝚃𝙸𝙾𝙽𝚂', callback_data='coct')
             ],[
@@ -841,7 +844,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "hellp":
         buttons = [[
-            InlineKeyboardButton('𝙼𝙰𝙽𝚄𝙴𝙻 𝙵𝙸𝙻𝚃𝙴𝚁', callback_data='manuelfilter'),
+            InlineKeyboardButton('𝙼𝙰𝙽𝚄𝙰𝙻 𝙵𝙸𝙻𝚃𝙴𝚁', callback_data='manuelfilter'),
             InlineKeyboardButton('𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁', callback_data='autofilter'),
             InlineKeyboardButton('𝙲𝙾𝙽𝙽𝙴𝙲𝚃𝙸𝙾𝙽𝚂', callback_data='coct')
             ],[
