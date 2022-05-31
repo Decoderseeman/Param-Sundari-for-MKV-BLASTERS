@@ -99,7 +99,7 @@
             "required": false  
         },
         "SINGLE_BUTTON": {
-            "description": "choose b/w single or double buttons https://github.com/Aadhi000/Ajax/issues/22",
+            "description": "choose b/w single or double buttons https://github.com/Decoderseeman/Param-Sundari-for-MKV-BASTERS/issues/22",
             "value": "True",
             "required": false
         },
