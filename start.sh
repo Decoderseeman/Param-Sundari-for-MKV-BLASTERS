@@ -8,5 +8,5 @@ else
 fi
 cd /Ajax
 pip3 install -U -r requirements.txt
-echo "Starting ᗩᒍᗩ᙭....🔥"
+echo "Starting 𝗣𝗮𝗿𝗮𝗺 𝗦𝘂𝗻𝗱𝗮𝗿𝗶....🔥"
 python3 bot.py
