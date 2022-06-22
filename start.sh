@@ -1,7 +1,7 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  git clone https://github.com/Decoderseeman/Param-Sundari-for-MKV-BLASTERS.git /Ajax
+  git clone https://github.com/Decoderseeman/Param-Sundari-for-MKV-BLASTERS.git /Param-Sundari-for-MKV-BLASTERS
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
   git clone $UPSTREAM_REPO /Ajax
